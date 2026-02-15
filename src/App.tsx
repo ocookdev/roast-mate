@@ -34,7 +34,7 @@ function App() {
         Fancy a
       </Typography>
       <Typography variant="h1" component="h1" sx={{ mb: 4 }}>
-        Roast Mate?
+        Roast, Mate?
       </Typography>
       <Box
         sx={{
